@@ -558,6 +558,7 @@ break;
             printf("4:Vodaphone:-\t\t\t98250-98250\n\n");
             space();
             printf("***Light***\n\n");
+	 //for gap
             gap();
             printf("1:Torrent Power, Shahpur:-\t\t25502843 to 48\n\n");
             gap();
